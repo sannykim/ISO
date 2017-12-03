@@ -1,0 +1,8 @@
+{
+  "name": "ISOHack",
+  "app_id": "68207646",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

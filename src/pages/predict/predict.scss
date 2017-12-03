@@ -1,0 +1,25 @@
+page-predict {
+
+}
+.bg-image-predict {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    padding: 0px 0px;
+}
+
+.bg-image-predict img {
+    width: 90%;
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+    top: 0px;
+}
+
+.row {
+    margin-top: 230px;
+}
